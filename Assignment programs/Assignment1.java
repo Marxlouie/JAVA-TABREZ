@@ -9,7 +9,7 @@ class Bestf
 	}
 }
 
-class Bestf x
+class Bestf2
 {
 	public static void main(String[] args) 
 	{
@@ -73,7 +73,7 @@ class Car
     }
 }
 
-class Abc
+class Abcempty
  {
 
 
@@ -88,7 +88,7 @@ class Abc
      }
  }
 
-class Display
+class DisplayName
  {
     public static void main(Strings[] args)
     {
@@ -97,14 +97,15 @@ class Display
          }
  }
 
-class Display
+class Displaydq
  {
     public static void main(Strings[] args)
     {
      System.out.println(""Syed Tabrez"");
-     System.out.println(""Java Faculty"");
-         }
- }
+     System.out.println(""Java Faculty""); //you'll get error//
+    }
+         
+}
 
 
 
